@@ -20,7 +20,8 @@ layout:
 
 # Welcome
 
-Welcome to the GitBook Starter! This is a test to see if a PR will be generated.
+Welcome to the GitBook Starter! This is a test to see if a PR will be generated.\
+This is a second attempt!
 
 ### Jump right in
 
